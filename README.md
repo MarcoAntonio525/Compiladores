@@ -1,2 +1,0 @@
-# Compiladores
-Seccion D05
